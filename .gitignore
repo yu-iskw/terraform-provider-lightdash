@@ -69,3 +69,5 @@ vendor/
 
 # Local / CI Trivy CycloneDX SBOM output
 provider.cdx.json
+
+.claude/settings.local.json
